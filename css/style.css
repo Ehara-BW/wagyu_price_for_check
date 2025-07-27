@@ -35,9 +35,9 @@ p {
   }
 }
 
-
+/* 検索ボタンの色変更 */
 .submit-color {
-  background-color: #ef6c30;
+  background-color: #17a2b8;
   color: white;
   opacity: 0.9;
   transition: all 0.4s;
